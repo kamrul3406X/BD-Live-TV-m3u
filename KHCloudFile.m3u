@@ -2,20 +2,21 @@
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KHCloudFile",Jalsha Movies
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
-
-#EXTINF:-1 tvg-logo="" group-title="KHCloudFile",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="KHCloudFile",MAASRANGA TV
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="KHCloudFile",Sony Aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KHCloudFile",Star Jalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="KHCloudFile",Zee Bangla Cinema
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/32/%E0%A6%8F%E0%A6%86%E0%A6%B0%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%87_%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B2_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="KHCloudFile",ARY DIGITAL 4k
+http://103.169.98.94:8080/live/03219869954/8774343AbC/246590.ts?token=TxNaVBVQEQgQVVNSB1YPAFEFB1IHV1BUVAQCVFEGBQcAVVEHBA8CClYTGRNCEUUBVF85WgJBD1NQBgEIVBsQREdUQGoPXBEIEAQCCAlUFUgXRg9eA0EPUFMCAARUBwoCBR0QRQ9cEQgQAAcIAFUVSBdXHkcDEVsACG9QVBJeUVQWC1xAClQfEF1falVUCFYKURBcEVZBGUMNQ0QTXllHXVgdEFcPTEFTRlQXCxNWDlENEEoRBQxADxBCTRNeWUddWB0QUB5MVlxBWFpfE18VEEYQShEPEGoTAUNAQwFWX1RGEwgXVhofEF9QTW5SClkKUFESWgkNRkNeEgUTSBVfXlpYRloUZ0NbVhMPEwBXBVQEEBs=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/30/%E0%A6%9F%E0%A6%BF_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8.png" group-title="KHCloudFile",T-Sports
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="KHCloudFile",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="KHCloudFile",Hum TV
+http://filex.tv:8080/03219869954/8774343AbC/110033
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="KHCloudFile",Sony Max
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
