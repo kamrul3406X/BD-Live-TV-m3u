@@ -8135,6 +8135,357 @@ http://14.102.123.50:5001/live/sl155.m3u8
 #EXTINF:-1 tvg-id=sl852 tvg-name="SL Sony BBC Earth HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_BBC_Earth_HD_English.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", SL Sony BBC Earth HD
 http://14.102.123.50:5001/live/sl852.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="PK | QURAN MUJEED HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIunp2uh2ml7qunCMxZMnnK0LlcU5J3trYduXFFfpeU1swjI2yuY0h3g&s=10" group-title="PK ➾ ISLAMIC",PK | QURAN MUJEED HD
+http://filex.tv:8080/03219869954/8774343AbC/311
+#EXTINF:-1 tvg-id="" tvg-name="PK | MAKKAH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="PK ➾ ISLAMIC",PK | MAKKAH TV HD
+http://filex.tv:8080/03219869954/8774343AbC/52112
+#EXTINF:-1 tvg-id="" tvg-name="PK | NAAT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVegvmdQykVe_OUnUo0QfLYlCRLeQs-TrdA&usqp=CAU" group-title="PK ➾ ISLAMIC",PK | NAAT HD
+http://filex.tv:8080/03219869954/8774343AbC/139481
+#EXTINF:-1 tvg-id="" tvg-name="PK | NOOR TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNW5YcMFmUmCkVaFvHjMjRHPYsI79RYDpoAA&usqp=CAU" group-title="PK ➾ ISLAMIC",PK | NOOR TV HD
+http://filex.tv:8080/03219869954/8774343AbC/141305
+#EXTINF:-1 tvg-id="" tvg-name="PK | SAUDI SUNNAH HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title="PK ➾ ISLAMIC",PK | SAUDI SUNNAH HD
+http://filex.tv:8080/03219869954/8774343AbC/247145
+#EXTINF:-1 tvg-id="" tvg-name="PK | MADANI CHANNEL HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-pk.png" group-title="PK ➾ ISLAMIC",PK | MADANI CHANNEL HD
+http://filex.tv:8080/03219869954/8774343AbC/247146
+#EXTINF:-1 tvg-id="" tvg-name="PK | AHLEBAIT TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ahlebait.png" group-title="PK ➾ ISLAMIC",PK | AHLEBAIT TV HD
+http://filex.tv:8080/03219869954/8774343AbC/247148
+#EXTINF:-1 tvg-id="" tvg-name="PK | HADI TV HD" tvg-logo="https://en.haditv.co.uk/pics/logo.png" group-title="PK ➾ ISLAMIC",PK | HADI TV HD
+http://filex.tv:8080/03219869954/8774343AbC/247149
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY QTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_qtv.png" group-title="PK ➾ ISLAMIC",PK | ARY QTV HD
+http://filex.tv:8080/03219869954/8774343AbC/247150
+#EXTINF:-1 tvg-id="" tvg-name="PK | PEACE TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="PK ➾ ISLAMIC",PK | PEACE TV URDU HD
+http://filex.tv:8080/03219869954/8774343AbC/247151
+#EXTINF:-1 tvg-id="" tvg-name="PK | PEACE TV ENG HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace-tv-english-ae.png" group-title="PK ➾ ISLAMIC",PK | PEACE TV ENG HD
+http://filex.tv:8080/03219869954/8774343AbC/247152
+#EXTINF:-1 tvg-id="" tvg-name="PK | PAIGHAM TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paigham_tv_pk.png" group-title="PK ➾ ISLAMIC",PK | PAIGHAM TV URDU HD
+http://filex.tv:8080/03219869954/8774343AbC/247153
+#EXTINF:-1 tvg-id="" tvg-name="PK | MUNTAZIR TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muntazar-tv-pk.png" group-title="PK ➾ ISLAMIC",PK | MUNTAZIR TV HD
+http://filex.tv:8080/03219869954/8774343AbC/247154
+#EXTINF:-1 tvg-id="" tvg-name="PK | DUA TV" tvg-logo="" group-title="PK ➾ ISLAMIC",PK | DUA TV
+http://filex.tv:8080/03219869954/8774343AbC/451416
+#EXTINF:-1 tvg-id="" tvg-name="PK | HADI TV 1" tvg-logo="" group-title="PK ➾ ISLAMIC",PK | HADI TV 1
+http://filex.tv:8080/03219869954/8774343AbC/451418
+#EXTINF:-1 tvg-id="" tvg-name="PK | KARBALA TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/karbala_satellite_channel.png" group-title="PK ➾ ISLAMIC",PK | KARBALA TV HD
+http://filex.tv:8080/03219869954/8774343AbC/247147
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV " tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | HUM TV 
+http://filex.tv:8080/03219869954/8774343AbC/110033
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | HUM TV HD
+http://filex.tv:8080/03219869954/8774343AbC/110034
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY DIGITAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | ARY DIGITAL
+http://filex.tv:8080/03219869954/8774343AbC/110036
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | ARY DIGITAL HD
+http://filex.tv:8080/03219869954/8774343AbC/110038
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | GEO ENTERTAINMENT
+http://filex.tv:8080/03219869954/8774343AbC/110040
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO ENTERTAINMENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | GEO ENTERTAINMENT HD
+http://filex.tv:8080/03219869954/8774343AbC/110041
+#EXTINF:-1 tvg-id="" tvg-name="PK | BOL ENTERTAINMENT " tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | BOL ENTERTAINMENT 
+http://filex.tv:8080/03219869954/8774343AbC/110043
+#EXTINF:-1 tvg-id="" tvg-name="PK | BOL ENTERTAINMENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | BOL ENTERTAINMENT HD
+http://filex.tv:8080/03219869954/8774343AbC/110044
+#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS ENTERTAINMENT " tvg-logo="https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | EXPRESS ENTERTAINMENT 
+http://filex.tv:8080/03219869954/8774343AbC/110046
+#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS ENTERTAINMENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | EXPRESS ENTERTAINMENT HD
+http://filex.tv:8080/03219869954/8774343AbC/110047
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_zindagi_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | ARY ZINDAGI
+http://filex.tv:8080/03219869954/8774343AbC/110049
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO KAHANI" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | GEO KAHANI
+http://filex.tv:8080/03219869954/8774343AbC/110052
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | AAJ ENTERTAINMENT
+http://filex.tv:8080/03219869954/8774343AbC/110055
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARY" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | HUM SITARY
+http://filex.tv:8080/03219869954/8774343AbC/110058
+#EXTINF:-1 tvg-id="" tvg-name="PK | A PLUS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-plus-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | A PLUS HD
+http://filex.tv:8080/03219869954/8774343AbC/110062
+#EXTINF:-1 tvg-id="" tvg-name="PK | ATV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | ATV HD
+http://filex.tv:8080/03219869954/8774343AbC/110065
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV HOME " tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | PTV HOME 
+http://filex.tv:8080/03219869954/8774343AbC/110067
+#EXTINF:-1 tvg-id="" tvg-name="PK | PLAY TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | PLAY TV
+http://filex.tv:8080/03219869954/8774343AbC/110068
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY QTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_qtv.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | ARY QTV HD
+http://filex.tv:8080/03219869954/8774343AbC/110071
+#EXTINF:-1 tvg-id="" tvg-name="PK | SAB TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sab-tv-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | SAB TV HD
+http://filex.tv:8080/03219869954/8774343AbC/110075
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aan-tv-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | AAN TV HD
+http://filex.tv:8080/03219869954/8774343AbC/110076
+#EXTINF:-1 tvg-id="" tvg-name="PK | URDU 1 HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQZeEyawlNdVjokVYB6X9Yv2XmV7z-tCcgA&usqp=CAU" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | URDU 1 HD 
+http://filex.tv:8080/03219869954/8774343AbC/110078
+#EXTINF:-1 tvg-id="" tvg-name="PK | MUN TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mun-tv-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | MUN TV
+http://filex.tv:8080/03219869954/8774343AbC/110079
+#EXTINF:-1 tvg-id="" tvg-name="PK | KTN TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktn_tv_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | KTN TV
+http://filex.tv:8080/03219869954/8774343AbC/110081
+#EXTINF:-1 tvg-id="" tvg-name="PK | PASHTO 1 TV" tvg-logo="" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | PASHTO 1 TV
+http://filex.tv:8080/03219869954/8774343AbC/110084
+#EXTINF:-1 tvg-id="" tvg-name="PK | SINDH TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | SINDH TV
+http://filex.tv:8080/03219869954/8774343AbC/110090
+#EXTINF:-1 tvg-id="" tvg-name="PK | AUR LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aur-life-hd-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | AUR LIVE
+http://filex.tv:8080/03219869954/8774343AbC/110091
+#EXTINF:-1 tvg-id="" tvg-name="PK | SEE TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | SEE TV HD
+http://filex.tv:8080/03219869954/8774343AbC/110093
+#EXTINF:-1 tvg-id="" tvg-name="PK | GREEN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | GREEN TV
+http://filex.tv:8080/03219869954/8774343AbC/110094
+#EXTINF:-1 tvg-id="" tvg-name="PK |  WASEB TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK |  WASEB TV
+http://filex.tv:8080/03219869954/8774343AbC/110095
+#EXTINF:-1 tvg-id="" tvg-name="PK | FILMAX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | FILMAX
+http://filex.tv:8080/03219869954/8774343AbC/110100
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARUJ" tvg-logo="" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | ARUJ
+http://filex.tv:8080/03219869954/8774343AbC/110102
+#EXTINF:-1 tvg-id="" tvg-name="PK | LTN FAMILY" tvg-logo="" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | LTN FAMILY
+http://filex.tv:8080/03219869954/8774343AbC/110103
+#EXTINF:-1 tvg-id="" tvg-name="PK | FILMAZIA" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia_pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | FILMAZIA
+http://filex.tv:8080/03219869954/8774343AbC/110107
+#EXTINF:-1 tvg-id="" tvg-name="PK | FILM WORLD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-world-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | FILM WORLD
+http://filex.tv:8080/03219869954/8774343AbC/110114
+#EXTINF:-1 tvg-id="" tvg-name="PK | KHYBER TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-middle-east-tv-pk.png" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | KHYBER TV
+http://filex.tv:8080/03219869954/8774343AbC/189484
+#EXTINF:-1 tvg-id="" tvg-name="PK | CINEMAX TV" tvg-logo="" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | CINEMAX TV
+http://filex.tv:8080/03219869954/8774343AbC/190764
+#EXTINF:-1 tvg-id="" tvg-name="PK | APNA TV" tvg-logo="" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | APNA TV
+http://filex.tv:8080/03219869954/8774343AbC/190765
+#EXTINF:-1 tvg-id="" tvg-name="PK | A 1 TV" tvg-logo="" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | A 1 TV
+http://filex.tv:8080/03219869954/8774343AbC/190766
+#EXTINF:-1 tvg-id="" tvg-name="PK | KAY 2" tvg-logo="" group-title="PAKISTAN ➾ ENTERTAINMENT ",PK | KAY 2
+http://filex.tv:8080/03219869954/8774343AbC/453389
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG-HD" tvg-logo="" group-title="INTERNATIONAL ➾ NEWS",BLOOMBERG-HD
+http://filex.tv:8080/03219869954/8774343AbC/276156
+#EXTINF:-1 tvg-id="" tvg-name="PK | 92 NEWS " tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | 92 NEWS 
+http://filex.tv:8080/03219869954/8774343AbC/52034
+#EXTINF:-1 tvg-id="" tvg-name="PK | 92 NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | 92 NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52035
+#EXTINF:-1 tvg-id="" tvg-name="PK | BOL NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | BOL NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52036
+#EXTINF:-1 tvg-id="" tvg-name="PK | BOL NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | BOL NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52037
+#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS NEWS " tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | EXPRESS NEWS 
+http://filex.tv:8080/03219869954/8774343AbC/52038
+#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | EXPRESS NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52039
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO NEWS " tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png" group-title="PAKISTAN ➾ NEWS",PK | GEO NEWS 
+http://filex.tv:8080/03219869954/8774343AbC/52040
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png" group-title="PAKISTAN ➾ NEWS",PK | GEO NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52041
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY NEWS " tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAKISTAN ➾ NEWS",PK | ARY NEWS 
+http://filex.tv:8080/03219869954/8774343AbC/52042
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAKISTAN ➾ NEWS",PK | ARY NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52043
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tv_news.png" group-title="PAKISTAN ➾ NEWS",PK | AAJ NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52044
+#EXTINF:-1 tvg-id="" tvg-name="PK | SAMAA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWsYR2EoaMEqmvdZL8l8vC4nKRi5SJtmNKmQ&usqp=CAU" group-title="PAKISTAN ➾ NEWS",PK | SAMAA NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52045
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 21 NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | CITY 21 NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52046
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 41 NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_41_tv.png" group-title="PAKISTAN ➾ NEWS",PK | CITY 41 NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52051
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 42 NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png" group-title="PAKISTAN ➾ NEWS",PK | CITY 42 NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52052
+#EXTINF:-1 tvg-id="" tvg-name="PK | LAHORE NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | LAHORE NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52056
+#EXTINF:-1 tvg-id="" tvg-name="PK | SINDH NEWS *" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv_news.png" group-title="PAKISTAN ➾ NEWS",PK | SINDH NEWS *
+http://filex.tv:8080/03219869954/8774343AbC/52057
+#EXTINF:-1 tvg-id="" tvg-name="PK | GNN NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gourmet-news-network-pk.png" group-title="PAKISTAN ➾ NEWS",PK | GNN NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52058
+#EXTINF:-1 tvg-id="" tvg-name="PK | LAHORE RANG" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore-rang-pk.png" group-title="PAKISTAN ➾ NEWS",PK | LAHORE RANG
+http://filex.tv:8080/03219869954/8774343AbC/52060
+#EXTINF:-1 tvg-id="" tvg-name="PK | DAWN NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | DAWN NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52061
+#EXTINF:-1 tvg-id="" tvg-name="PK | DUNIYA NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png" group-title="PAKISTAN ➾ NEWS",PK | DUNIYA NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52066
+#EXTINF:-1 tvg-id="" tvg-name="PK | NEWS ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-one-pk.png" group-title="PAKISTAN ➾ NEWS",PK | NEWS ONE HD
+http://filex.tv:8080/03219869954/8774343AbC/52068
+#EXTINF:-1 tvg-id="" tvg-name="PK | 24 NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_24_pk.png" group-title="PAKISTAN ➾ NEWS",PK | 24 NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52070
+#EXTINF:-1 tvg-id="" tvg-name="PK | ABB TAK NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abb_takk_pk.png" group-title="PAKISTAN ➾ NEWS",PK | ABB TAK NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52071
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | PTV NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52073
+#EXTINF:-1 tvg-id="" tvg-name="PK | VSH NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | VSH NEWS
+http://filex.tv:8080/03219869954/8774343AbC/52074
+#EXTINF:-1 tvg-id="" tvg-name="PK | ROHI TV" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | ROHI TV
+http://filex.tv:8080/03219869954/8774343AbC/52075
+#EXTINF:-1 tvg-id="" tvg-name="PK | PUBLIC NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/public-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | PUBLIC NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/52226
+#EXTINF:-1 tvg-id="" tvg-name="PK | TV2DAY" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | TV2DAY
+http://filex.tv:8080/03219869954/8774343AbC/52227
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | HUM NEWS HD
+http://filex.tv:8080/03219869954/8774343AbC/71178
+#EXTINF:-1 tvg-id="" tvg-name="PK | METRO 1 NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | METRO 1 NEWS
+http://filex.tv:8080/03219869954/8774343AbC/79852
+#EXTINF:-1 tvg-id="" tvg-name="PK | KHYBER NEWS " tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | KHYBER NEWS 
+http://filex.tv:8080/03219869954/8774343AbC/189485
+#EXTINF:-1 tvg-id="" tvg-name="PK | SUCH NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | SUCH NEWS
+http://filex.tv:8080/03219869954/8774343AbC/190144
+#EXTINF:-1 tvg-id="" tvg-name="PK | ABN NWES HD" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | ABN NWES HD
+http://filex.tv:8080/03219869954/8774343AbC/395096
+#EXTINF:-1 tvg-id="" tvg-name="PK | CAPITAL NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | CAPITAL NEWS
+http://filex.tv:8080/03219869954/8774343AbC/453158
+#EXTINF:-1 tvg-id="" tvg-name="PK | NEO NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | NEO NEWS
+http://filex.tv:8080/03219869954/8774343AbC/453383
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO TEZ" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | GEO TEZ
+http://filex.tv:8080/03219869954/8774343AbC/453385
+#EXTINF:-1 tvg-id="" tvg-name="PK | VENUS NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | VENUS NEWS
+http://filex.tv:8080/03219869954/8774343AbC/453386
+#EXTINF:-1 tvg-id="" tvg-name="PK | SUNO NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | SUNO NEWS
+http://filex.tv:8080/03219869954/8774343AbC/453387
+#EXTINF:-1 tvg-id="" tvg-name="PK | WASEEB NEWS" tvg-logo="" group-title="PAKISTAN ➾ NEWS",PK | WASEEB NEWS
+http://filex.tv:8080/03219869954/8774343AbC/453388
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAN TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aan-tv-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | AAN TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246584
+#EXTINF:-1 tvg-id="" tvg-name="PK | A1 TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a1-entertainment-tv-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | A1 TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246585
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | AAJ ENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/246586
+#EXTINF:-1 tvg-id="" tvg-name="PK | A PLUS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-plus-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | A PLUS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246587
+#EXTINF:-1 tvg-id="" tvg-name="PK | APNA TV HD 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/apna-channel-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | APNA TV HD 4K
+http://filex.tv:8080/03219869954/8774343AbC/246588
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY DIGITAL 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | ARY DIGITAL 4K
+http://filex.tv:8080/03219869954/8774343AbC/246590
+#EXTINF:-1 tvg-id="" tvg-name="PK | BOL ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | BOL ENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/246591
+#EXTINF:-1 tvg-id="" tvg-name="PK | CINEMAX (PK) 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | CINEMAX (PK) 4K
+http://filex.tv:8080/03219869954/8774343AbC/246592
+#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | EXPRESS ENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/246593
+#EXTINF:-1 tvg-id="" tvg-name="PK | FILMWORLD 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-world-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | FILMWORLD 4K
+http://filex.tv:8080/03219869954/8774343AbC/246594
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO ENT 4K" tvg-logo="https://www.lyngsat.com/logo/corp/gg/geo_tv_network.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | GEO ENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/246595
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO KAHANI 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | GEO KAHANI 4K
+http://filex.tv:8080/03219869954/8774343AbC/246596
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM MASALA 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-masala.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | HUM MASALA 4K
+http://filex.tv:8080/03219869954/8774343AbC/246597
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARY 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | HUM SITARY 4K
+http://filex.tv:8080/03219869954/8774343AbC/246598
+#EXTINF:-1 tvg-id="" tvg-name="PK | KAY 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kay-2-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | KAY 2 4K
+http://filex.tv:8080/03219869954/8774343AbC/246599
+#EXTINF:-1 tvg-id="" tvg-name="PK | KHYBER TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-middle-east-tv-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | KHYBER TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246600
+#EXTINF:-1 tvg-id="" tvg-name="PK | KTN ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktn_tv_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | KTN ENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/246601
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM PASHTO 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pashto_1_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | HUM PASHTO 1 4K
+http://filex.tv:8080/03219869954/8774343AbC/246602
+#EXTINF:-1 tvg-id="" tvg-name="PK | PLAY ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | PLAY ENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/246603
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV HOME 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_home_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | PTV HOME 4K
+http://filex.tv:8080/03219869954/8774343AbC/246604
+#EXTINF:-1 tvg-id="" tvg-name="PK | SEE TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | SEE TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246606
+#EXTINF:-1 tvg-id="" tvg-name="PK | SINDH TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | SINDH TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246607
+#EXTINF:-1 tvg-id="" tvg-name="PK | TV ONE 4K" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | TV ONE 4K
+http://filex.tv:8080/03219869954/8774343AbC/246608
+#EXTINF:-1 tvg-id="" tvg-name="PK | FILMAX 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | FILMAX 4K
+http://filex.tv:8080/03219869954/8774343AbC/246610
+#EXTINF:-1 tvg-id="" tvg-name="PK | GREEN ENT 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | GREEN ENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/246611
+#EXTINF:-1 tvg-id="" tvg-name="PK | LTN FAMILY 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ll/ltn-family-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | LTN FAMILY 4K
+http://filex.tv:8080/03219869954/8774343AbC/246612
+#EXTINF:-1 tvg-id="" tvg-name="PK | RAAVI 4K" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raavi_tv.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | RAAVI 4K
+http://filex.tv:8080/03219869954/8774343AbC/246613
+#EXTINF:-1 tvg-id="" tvg-name="PK | SAB TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sab-tv-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | SAB TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246614
+#EXTINF:-1 tvg-id="" tvg-name="PK | MUN TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mun-tv-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | MUN TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246615
+#EXTINF:-1 tvg-id="" tvg-name="PK | URDU 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/uu/urdu_1_pk_me.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | URDU 1 4K
+http://filex.tv:8080/03219869954/8774343AbC/246616
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY ZINDAGI 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_zindagi_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | ARY ZINDAGI 4K
+http://filex.tv:8080/03219869954/8774343AbC/246617
+#EXTINF:-1 tvg-id="" tvg-name="PK | WASEB 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | WASEB 4K
+http://filex.tv:8080/03219869954/8774343AbC/246618
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NATIONAL 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_national_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | PTV NATIONAL 4K
+http://filex.tv:8080/03219869954/8774343AbC/246619
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | HUM TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246620
+#EXTINF:-1 tvg-id="" tvg-name="PK | FILMAZIA 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia_pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | FILMAZIA 4K
+http://filex.tv:8080/03219869954/8774343AbC/246622
+#EXTINF:-1 tvg-id="" tvg-name="PK | FILMAZIA PUNJABI 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmazia-punjabi-pk.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | FILMAZIA PUNJABI 4K
+http://filex.tv:8080/03219869954/8774343AbC/246624
+#EXTINF:-1 tvg-id="" tvg-name="PK | ATV 4K" tvg-logo="http://webotv.asia:80/images/ef539b6df421dff0196ffec9dee7147c.png" group-title="PAKISTAN ➾ DRAMA VIP",PK | ATV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246625
+#EXTINF:-1 tvg-id="" tvg-name="PK | WANASAH TV 4K" tvg-logo="" group-title="PAKISTAN ➾ DRAMA VIP",PK | WANASAH TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/284013
+#EXTINF:-1 tvg-id="" tvg-name="PK | VENTERTAINMENT 4K" tvg-logo="" group-title="PAKISTAN ➾ DRAMA VIP",PK | VENTERTAINMENT 4K
+http://filex.tv:8080/03219869954/8774343AbC/288099
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAKISTAN ➾ NEWS VIP",PK | ARY NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246972
+#EXTINF:-1 tvg-id="" tvg-name="PK | DUNYA NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | DUNYA NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246973
+#EXTINF:-1 tvg-id="" tvg-name="PK | BOL NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | BOL NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246974
+#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | EXPRESS NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246975
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_news_international.png" group-title="PAKISTAN ➾ NEWS VIP",PK | GEO NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246976
+#EXTINF:-1 tvg-id="" tvg-name=" PK | GNN NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gourmet-news-network-pk.png" group-title="PAKISTAN ➾ NEWS VIP", PK | GNN NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246977
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO TEZ 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tez_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | GEO TEZ 4K
+http://filex.tv:8080/03219869954/8774343AbC/246978
+#EXTINF:-1 tvg-id="" tvg-name="PK |  GTV NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-network-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  GTV NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246979
+#EXTINF:-1 tvg-id="" tvg-name="PK |  HUM NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-news-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  HUM NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246980
+#EXTINF:-1 tvg-id="" tvg-name="PK |  KHYBER NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-news-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  KHYBER NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246981
+#EXTINF:-1 tvg-id="" tvg-name="PK |  METRO 1 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro1_news_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  METRO 1 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246982
+#EXTINF:-1 tvg-id="" tvg-name="PK |  NEO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/nn/neo-tv-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  NEO NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246983
+#EXTINF:-1 tvg-id="" tvg-name="PK |  PTV NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  PTV NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246984
+#EXTINF:-1 tvg-id="" tvg-name="PK |  PTV WORLD 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_world_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  PTV WORLD 4K
+http://filex.tv:8080/03219869954/8774343AbC/246985
+#EXTINF:-1 tvg-id="" tvg-name="PK | SAMAA NEWS 4K" tvg-logo="https://www.dthsat.com/images/Samaa-News-Logo.png" group-title="PAKISTAN ➾ NEWS VIP",PK | SAMAA NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246986
+#EXTINF:-1 tvg-id="" tvg-name="PK |  NEWS ONE 4K" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-one-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  NEWS ONE 4K
+http://filex.tv:8080/03219869954/8774343AbC/246987
+#EXTINF:-1 tvg-id="" tvg-name="PK |  SUCH NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/such-tv-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK |  SUCH NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246988
+#EXTINF:-1 tvg-id="" tvg-name="PK | TV2DAY 4K" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-today-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | TV2DAY 4K
+http://filex.tv:8080/03219869954/8774343AbC/246989
+#EXTINF:-1 tvg-id="" tvg-name="PK | 24 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_24_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | 24 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246990
+#EXTINF:-1 tvg-id="" tvg-name="PK | K21 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k21-news-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | K21 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246991
+#EXTINF:-1 tvg-id="" tvg-name="PK | ROHI TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rohi-tv-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | ROHI TV 4K
+http://filex.tv:8080/03219869954/8774343AbC/246992
+#EXTINF:-1 tvg-id="" tvg-name="PK | DAWN NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | DAWN NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246993
+#EXTINF:-1 tvg-id="" tvg-name="PK | VSH NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vsh_news.png" group-title="PAKISTAN ➾ NEWS VIP",PK | VSH NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246994
+#EXTINF:-1 tvg-id="" tvg-name="PK | 92 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | 92 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246995
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 42 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png" group-title="PAKISTAN ➾ NEWS VIP",PK | CITY 42 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246996
+#EXTINF:-1 tvg-id="" tvg-name="PK | SUNO NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suno-news-hd-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | SUNO NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246997
+#EXTINF:-1 tvg-id="" tvg-name="PK | PUBLIC NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/public-news-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | PUBLIC NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246998
+#EXTINF:-1 tvg-id="" tvg-name="PK | KOHENOOR NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kohenoor-news-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | KOHENOOR NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/246999
+#EXTINF:-1 tvg-id="" tvg-name="PK | CAPITAL NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/capital_tv_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | CAPITAL NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247000
+#EXTINF:-1 tvg-id="" tvg-name="PK | LAHORE NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | LAHORE NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247001
+#EXTINF:-1 tvg-id="" tvg-name="PK | ROZE NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/rr/roze_news_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | ROZE NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247003
+#EXTINF:-1 tvg-id="" tvg-name="PK | SINDH NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv_news.png" group-title="PAKISTAN ➾ NEWS VIP",PK | SINDH NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247004
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 41 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_41_tv.png" group-title="PAKISTAN ➾ NEWS VIP",PK | CITY 41 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247005
+#EXTINF:-1 tvg-id="" tvg-name="PK | CITY 21 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city-21-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | CITY 21 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247006
+#EXTINF:-1 tvg-id="" tvg-name="PK | 7 NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/num/7_news_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | 7 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247008
+#EXTINF:-1 tvg-id="" tvg-name="PH | VENUS NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-hd-pk.png" group-title="PAKISTAN ➾ NEWS VIP",PH | VENUS NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247009
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_tv_news.png" group-title="PAKISTAN ➾ NEWS VIP",PK | AAJ NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247011
+#EXTINF:-1 tvg-id="" tvg-name="PK | ABB TAK NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abb_takk_pk.png" group-title="PAKISTAN ➾ NEWS VIP",PK | ABB TAK NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/247012
+#EXTINF:-1 tvg-id="" tvg-name="PK | LAHORE RANG 4K" tvg-logo="" group-title="PAKISTAN ➾ NEWS VIP",PK | LAHORE RANG 4K
+http://filex.tv:8080/03219869954/8774343AbC/283903
+#EXTINF:-1 tvg-id="" tvg-name="PK | UK 44 NEWS 4K" tvg-logo="" group-title="PAKISTAN ➾ NEWS VIP",PK | UK 44 NEWS 4K
+http://filex.tv:8080/03219869954/8774343AbC/288098
 
 
